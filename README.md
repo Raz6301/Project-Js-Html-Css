@@ -1,2 +1,2 @@
-# Project-Js-Html-Css
- a js vanila html & bootstrap css
+# W081222MR-SLIDESHOW-APP
+ a javascript vanila html & bootstrap project
